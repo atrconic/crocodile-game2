@@ -1,0 +1,12 @@
+.back-ground-light {
+    background-image: url('/static/crocodile.png');
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+}
+.back-ground-dark {
+    background-image: url('/static/scaryC.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
